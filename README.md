@@ -1,5 +1,5 @@
-### Name: Kiran J
-### Register number: 212221240022
+### Name: Kavinraja D
+### Register number: 212222240047
 # Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
 Date:27/2/2024
 ### AIM:
