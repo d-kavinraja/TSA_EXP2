@@ -97,14 +97,14 @@ print("Polynomial trend equation y=%.2f+%0.2fx+%.2fx^2"%(a,b,c))
 ### OUTPUT
 A- LINEAR TREND ESTIMATION
 
-![image](https://github.com/Ramsai1234/TSA_EXP2/assets/94269989/ce851dc8-3562-47d7-ba16-5a9308a89781)
-![image](https://github.com/Ramsai1234/TSA_EXP2/assets/94269989/9a869450-d255-41e5-bd3d-e7ff5c9d5a6c)
+![WhatsApp Image 2024-03-04 at 19 28 01_f016ddeb](https://github.com/d-kavinraja/TSA_EXP2/assets/119875375/7c289e1a-1baf-4631-93d5-dd510c28f7a1)
+![WhatsApp Image 2024-03-04 at 19 28 23_b1f13096](https://github.com/d-kavinraja/TSA_EXP2/assets/119875375/c70340e0-b858-456f-a87e-98771b105d4b)
 
 
 B- POLYNOMIAL TREND ESTIMATION
+![WhatsApp Image 2024-03-04 at 19 37 39_71e5efb2](https://github.com/d-kavinraja/TSA_EXP2/assets/119875375/b7e2f200-95f3-47c2-b226-caebaeade389)
 
-![image](https://github.com/Ramsai1234/TSA_EXP2/assets/94269989/3008cb9e-c943-496c-b79c-1d798b2adcc6)
-![image](https://github.com/Ramsai1234/TSA_EXP2/assets/94269989/90c7b899-bbc2-462c-9aed-37ef5192694d)
+![WhatsApp Image 2024-03-04 at 19 38 35_bf8ccd53](https://github.com/d-kavinraja/TSA_EXP2/assets/119875375/158a9807-2cc3-409f-b232-b3961ef74097)
 
 
 
