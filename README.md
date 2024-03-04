@@ -19,7 +19,7 @@ End the program
 
 
 ## A - LINEAR TREND ESTIMATION
-```
+```py
 #Trend equation using Linear Equation
 
 import numpy as np
@@ -57,7 +57,7 @@ plt.plot(x,l)
 ```
 
 ## B- POLYNOMIAL TREND ESTIMATION
-```
+```py
 ## Polynomial TRend EStimation 4th degree
 
 import numpy as np
@@ -95,6 +95,7 @@ print("Polynomial trend equation y=%.2f+%0.2fx+%.2fx^2"%(a,b,c))
 ```
 
 ### OUTPUT
+A- LINEAR TREND ESTIMATION
 
 ![image](https://github.com/Ramsai1234/TSA_EXP2/assets/94269989/ce851dc8-3562-47d7-ba16-5a9308a89781)
 ![image](https://github.com/Ramsai1234/TSA_EXP2/assets/94269989/9a869450-d255-41e5-bd3d-e7ff5c9d5a6c)
