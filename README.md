@@ -53,7 +53,6 @@ plt.xlabel("Year")
 plt.ylabel("Production")
 plt.plot(x,l)
 # print("Trend Equation : y=%d+%.2fx"%(a,b))
-
 ```
 
 ## B- POLYNOMIAL TREND ESTIMATION
@@ -95,13 +94,13 @@ print("Polynomial trend equation y=%.2f+%0.2fx+%.2fx^2"%(a,b,c))
 ```
 
 ### OUTPUT
-A- LINEAR TREND ESTIMATION
+## A- LINEAR TREND ESTIMATION
 
 ![WhatsApp Image 2024-03-04 at 19 28 01_f016ddeb](https://github.com/d-kavinraja/TSA_EXP2/assets/119875375/7c289e1a-1baf-4631-93d5-dd510c28f7a1)
 ![WhatsApp Image 2024-03-04 at 19 28 23_b1f13096](https://github.com/d-kavinraja/TSA_EXP2/assets/119875375/c70340e0-b858-456f-a87e-98771b105d4b)
 
 
-B- POLYNOMIAL TREND ESTIMATION
+## B- POLYNOMIAL TREND ESTIMATION
 ![WhatsApp Image 2024-03-04 at 19 37 39_71e5efb2](https://github.com/d-kavinraja/TSA_EXP2/assets/119875375/b7e2f200-95f3-47c2-b226-caebaeade389)
 
 ![WhatsApp Image 2024-03-04 at 19 38 35_bf8ccd53](https://github.com/d-kavinraja/TSA_EXP2/assets/119875375/158a9807-2cc3-409f-b232-b3961ef74097)
